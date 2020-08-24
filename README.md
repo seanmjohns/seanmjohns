@@ -11,7 +11,7 @@ Not that free time is particularly abundant with school in session.
 
 [Calc](https://github.com/seanmjohns/calc) - A simple terminal calculator that evaluates expressions given
 
-[Turt](https://github.com/Things-N-Stuff/Turt) - A discord server moderation bot that works cross-server (Created by ThingsNStuff organisation)
+[Turt](https://github.com/Things-N-Stuff/Turt) - A discord server moderation bot that works cross-server (Created by ThingsNStuff organization)
 
 [Submarine Trouble](https://github.com/seanmjohns/Submarine-Trouble) - The player controls a submarine that must survive an endless wave of enemy submarines.
 
