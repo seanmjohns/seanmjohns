@@ -1,5 +1,4 @@
-I'm a high school student and I spend my free time creating whatever I think of.  
-Not that free time is particularly abundant with school in session.
+Greetings! I am an incoming Georgia Institute of Technology student who will major in computer science. I have been programming since age ten, and I will continue to do so as a software engineer for the rest of my life. My current focus is around Systems and Architecture as well as Information Internetworks.
 
 ## Projects ([website](https://seanmjohns.github.io/))
 
