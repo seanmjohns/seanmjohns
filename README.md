@@ -20,6 +20,8 @@ Greetings! I am an incoming Georgia Institute of Technology student who will maj
 
 [Minesweeper Clone](https://github.com/seanmjohns/Minesweeper) - An imperfect clone of the classic Minesweeper game 
 
+[Quick Quiz](/home/sean/Documents/programming/website) - An application that assists students in learning course content.
+
 ## Contact
 
 Email - seanmjohns1@gmail.com  
