@@ -1,4 +1,5 @@
-Greetings! I am an incoming Georgia Institute of Technology student who will major in computer science. I have been programming since age ten, and I will continue to do so as a software engineer for the rest of my life. My current focus is around Systems and Architecture as well as Information Internetworks.
+Hello! I am a first-year Georgia Institute of Technology student majoring in computer science with a specialization in Information Internetworks as well as Systems and Architecture. I am seeking opportunities to gain experience working in backend system development.
+
 
 ## Projects ([website](https://seanmjohns.github.io/))
 
