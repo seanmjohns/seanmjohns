@@ -1,1 +1,3 @@
-Georgia Institute of Technology computer science student and a Network Hardware Support Student Assistant at GT's Office of Information Technology Network Engineering team with experience in in large scale network support and internal software tools development
+Hello, I'm Sean! 👋
+I'm a second year computer science student at Georgia Tech with experience in **cybersecurity**, **network hardware support**, and **software engineering**.
+I come from a diverse computer science background, so I can provide a **unique perspective** on many solutions!
