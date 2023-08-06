@@ -1,3 +1,4 @@
 Hello, I'm Sean! 👋
-I'm a rising third year computer science student at Georgia Tech with experience in **cybersecurity**, **network hardware support**, and **software engineering**.
-I come from a diverse computer science background, so I can provide a **unique perspective** on many solutions!
+Third-year at Georgia Tech with a broad range of experience in **penetration testing**, **software engineering**, **security engineering**, and **network hardware**.
+I'm seeking to impact companies by leading efforts to improve software security with intelligent design!
+
